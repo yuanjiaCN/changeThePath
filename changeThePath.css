@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    border:0;
+    margin: 0;
+}
+body{
+    background-color: darkcyan;
+}
+section{
+    width: 320px;
+    height:320px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    padding:5px 3px 5px 5px;
+    border-radius: 10px;
+}
+#bigPicture{
+    width: 252px;
+    height: 252px;
+}
+li{
+    display:inline;
+}
+img{
+    width: 60px;
+    height: 60px;
+    vertical-align:top;
+    float: left;
+    padding:2px;
+    border-radius: 10px;
+}
